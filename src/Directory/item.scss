@@ -1,0 +1,23 @@
+.item {
+  display: inline-block;
+  background-size: 100%;
+  width: 200px;
+  height: 200px;
+  border-radius: 20px;
+  box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  margin: 10px;
+  transition: 0.3s;
+  padding: 20px;
+
+  &:hover {
+    box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.3);
+    width: 210px;
+    height: 210px;
+  }
+
+  .name {
+    color: white;
+    background: rgba(0, 0, 0, 0.7);
+  }
+}
