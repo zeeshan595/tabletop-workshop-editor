@@ -29,7 +29,7 @@
     "@types/react-router-dom": "^5.1.5",
     "babel-loader": "^8.1.0",
     "css-loader": "^4.2.0",
-    "electron": "^9.1.2",
+    "electron": "^9.3.0",
     "electron-packager": "^15.0.0",
     "html-webpack-plugin": "^4.3.0",
     "monaco-editor-webpack-plugin": "^1.9.0",
